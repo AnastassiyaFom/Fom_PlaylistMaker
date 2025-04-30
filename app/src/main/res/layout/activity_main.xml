@@ -7,7 +7,7 @@
                 android:layout_height="match_parent"
                 android:background="#3772E7"
                 android:orientation="vertical"
-                android:padding="20dp"
+                android:padding="5dp"
                 tools:context=".MainActivity">
 
                 <TextView
@@ -19,7 +19,7 @@
                     android:textColor="#ffffff"
                     android:textSize="22sp"
                     android:layout_marginBottom="40dp"
-                    android:layout_marginTop="@dimen/margin"/>
+                    android:layout_marginTop="30dp"/>
 
                 <Button
                     android:id="@+id/search"
